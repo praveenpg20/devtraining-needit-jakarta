@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>discovery</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Discovery classification</h1>  <div class="body conbody">  <p class="p">Classification probes return data on the devices and process they find in your environment.   After the sensors processes the data returned by the classification probes, the system compares   these results with the configured criteria for each class of device in the Classification   [discovery_classy] table and triggers the appropriate exploration probes.</p>  <p class="p">Discovery process classification occurs during the exploration phase of Discovery, after device   classification. </p> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:DiscoveryClassification&amp;version&#61;jakarta" target="_blank" rel="nofollow">Discovery classification process</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Process_Classification&amp;version&#61;jakarta" target="_blank" rel="nofollow">Discovery process classification</a></div></div></div></div>]]></content>
+        <last_sync>2017-12-18 08:33:09</last_sync>
+        <modifier>normal</modifier>
+        <name>discovery_classy_list-normal</name>
+        <page>discovery_classy_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-12-18 08:33:09</sys_created_on>
+        <sys_id>8f68716e0f0f03003e26059ce1050e22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>discovery_classy_list-normal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_8f68716e0f0f03003e26059ce1050e22</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-12-18 08:33:09</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=8f68716e0f0f03003e26059ce1050e22"/>
+</record_update>
